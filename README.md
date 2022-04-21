@@ -1,1 +1,8 @@
-# Practical.GraphQL
+- [Introduction to GraphQL | GraphQL](https://graphql.org/learn/)
+- [What is GraphQL?](https://www.redhat.com/en/topics/api/what-is-graphql)
+- [What is GraphQL? GraphQL introduction - Apollo GraphQL Blog](https://www.apollographql.com/blog/graphql/basics/what-is-graphql-introduction/)
+- [Why use GraphQL? - Apollo GraphQL Blog](https://www.apollographql.com/blog/graphql/basics/why-use-graphql/)
+- [GraphQL vs REST: How To Choose One Over The Other | HackerNoon](https://hackernoon.com/graphql-vs-rest-how-to-choose-one-over-the-other)
+- [GraphQL vs REST API – Which Should You Use for Back End API Development?](https://www.freecodecamp.org/news/graphql-vs-rest-api/)
+- [Why you shouldn't use GraphQL - LogRocket Blog](https://blog.logrocket.com/why-you-shouldnt-use-graphql/)
+- [REST or GraphQL: You Might Need Both | Courier](https://www.courier.com/blog/why-you-cant-replace-rest-with-graphql/)
