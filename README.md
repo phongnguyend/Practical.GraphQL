@@ -6,3 +6,5 @@
 - [GraphQL vs REST API – Which Should You Use for Back End API Development?](https://www.freecodecamp.org/news/graphql-vs-rest-api/)
 - [Why you shouldn't use GraphQL - LogRocket Blog](https://blog.logrocket.com/why-you-shouldnt-use-graphql/)
 - [REST or GraphQL: You Might Need Both | Courier](https://www.courier.com/blog/why-you-cant-replace-rest-with-graphql/)
+- [Why I no longer use GraphQL for new projects - DEV Community 👩‍💻👨‍💻](https://dev.to/andyrewlee/why-i-no-longer-use-graphql-for-new-projects-1oig)
+- [Never understood the hype around GraphQL | Hacker News](https://news.ycombinator.com/item?id=26226001)
